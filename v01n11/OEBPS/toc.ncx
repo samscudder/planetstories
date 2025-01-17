@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta name="dtb:uid" content="planet-stories-v01n11"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>PLANET STORIES</text></docTitle>
+	<navMap>
+        <navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+        <navPoint id="contents" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="contents.xhtml"/></navPoint>
+        <navPoint id="task_to_lahri" playOrder="3"><navLabel><text>Task to Lahri</text></navLabel><content src="task_to_lahri.xhtml"/></navPoint>
+		<navPoint id="the_cosmic_derelict" playOrder="4"><navLabel><text>The Cosmic Derelict</text></navLabel><content src="the_cosmic_derelict.xhtml"/></navPoint>
+		<navPoint id="asteroid_of_the_damned" playOrder="5"><navLabel><text>Asteroid of the Damned</text></navLabel><content src="asteroid_of_the_damned.xhtml"/></navPoint>
+		<navPoint id="the_star-master" playOrder="6"><navLabel><text>The Star-Master</text></navLabel><content src="the_star-master.xhtml"/></navPoint>
+		<navPoint id="out_of_this_world" playOrder="7"><navLabel><text>Out of this World</text></navLabel><content src="out_of_this_world.xhtml"/></navPoint>
+		<navPoint id="captain_chaos" playOrder="8"><navLabel><text>Captain Chaos</text></navLabel><content src="captain_chaos.xhtml"/></navPoint>
+		<navPoint id="as_it_was" playOrder="9"><navLabel><text>As It Was</text></navLabel><content src="as_it_was.xhtml"/></navPoint>
+		<navPoint id="venus_enslaved" playOrder="10"><navLabel><text>Venus Enslaved</text></navLabel><content src="venus_enslaved.xhtml"/></navPoint>
+		<navPoint id="the_ringer_family" playOrder="11"><navLabel><text>The Ringer Family</text></navLabel><content src="the_ringer_family.xhtml"/></navPoint>
+		<navPoint id="the_vizigraph" playOrder="12"><navLabel><text>The Vizigraph</text></navLabel><content src="the_vizigraph.xhtml"/></navPoint>
+	</navMap>
+</ncx>

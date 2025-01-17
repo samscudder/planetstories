@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="bookid">planet-stories-v01n01</dc:identifier>
+		<dc:title>Planet Stories</dc:title>
+		<dc:creator>Malcolm Reiss Ed.</dc:creator>
+		<dc:subject>Science Fiction Magazine</dc:subject>
+		<dc:description>.</dc:description>
+		<dc:publisher>Fiction House</dc:publisher>
+		<dc:date>1955</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta name="cover" content="v01n01.jpg" />
+		<meta property="dcterms:modified">2023-08-25T12:00:00Z</meta>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="css/book.css" media-type="text/css"/>
+
+		<item id="v01n01.jpg" href="images/v01n01.jpg" media-type="image/jpeg"/>
+		<item id="old_header.jpg" href="images/old_header.jpg" media-type="image/jpeg"/>
+		<item id="fiction_house.jpg" href="images/fiction_house.jpg" media-type="image/jpeg"/>
+		<item id="trade_council.jpg" href="images/trade_council.jpg" media-type="image/jpeg"/>
+
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="contents" href="contents.xhtml" media-type="application/xhtml+xml"/>
+		<item id="the_golden_amazons_of_venus" href="the_golden_amazons_of_venus.xhtml" media-type="application/xhtml+xml"/>
+		<item id="expedition_to_pluto" href="expedition_to_pluto.xhtml" media-type="application/xhtml+xml"/>
+		<item id="war-lords_of_the_moon" href="war-lords_of_the_moon.xhtml" media-type="application/xhtml+xml"/>
+		<item id="cave-dwellers_of_saturn" href="cave-dwellers_of_saturn.xhtml" media-type="application/xhtml+xml"/>
+		<item id="index" href="index.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no"/>
+		<itemref idref="contents"/>
+		<itemref idref="the_golden_amazons_of_venus"/>
+		<itemref idref="expedition_to_pluto"/>
+		<itemref idref="war-lords_of_the_moon"/>
+		<itemref idref="cave-dwellers_of_saturn"/>
+	</spine>
+	<guide>
+		<reference type="cover" title="Cover" href="cover.xhtml"/>
+		<reference type="toc" title="Table of Contents" href="contents.xhtml"></reference>
+		<reference type="text" title="Contents" href="index.xhtml"></reference>
+	</guide>
+</package>
+
+
+

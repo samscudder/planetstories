@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta name="dtb:uid" content="planet-stories-v01n09"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>PLANET STORIES</text></docTitle>
+	<navMap>
+        <navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+        <navPoint id="contents" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="contents.xhtml"/></navPoint>
+        <navPoint id="the_lorelei_death" playOrder="3"><navLabel><text>The Lorelei Death</text></navLabel><content src="the_lorelei_death.xhtml"/></navPoint>
+        <navPoint id="queen_of_the_blue_world" playOrder="4"><navLabel><text>Queen of the Blue World</text></navLabel><content src="queen_of_the_blue_world.xhtml"/></navPoint>
+        <navPoint id="man_of_the_stars" playOrder="5"><navLabel><text>Man of the Stars</text></navLabel><content src="man_of_the_stars.xhtml"/></navPoint>
+        <navPoint id="a_planet_for_your_thoughts" playOrder="6"><navLabel><text>A Planet For Your Thoughts</text></navLabel><content src="a_planet_for_your_thoughts.xhtml"/></navPoint>
+        <navPoint id="thief_of_mars" playOrder="7"><navLabel><text>Thief of Mars</text></navLabel><content src="thief_of_mars.xhtml"/></navPoint>
+        <navPoint id="the_mercurian" playOrder="8"><navLabel><text>The Mercurian</text></navLabel><content src="the_mercurian.xhtml"/></navPoint>
+        <navPoint id="espionage_in_space" playOrder="9"><navLabel><text>Espionage in Space</text></navLabel><content src="espionage_in_space.xhtml"/></navPoint>
+        <navPoint id="feature_flash" playOrder="10"><navLabel><text>Feature Flash</text></navLabel><content src="feature_flash.xhtml"/></navPoint>
+        <navPoint id="zurk" playOrder="11"><navLabel><text>Zurk</text></navLabel><content src="zurk.xhtml"/></navPoint>
+        <navPoint id="monster_of_the_asteroid" playOrder="12"><navLabel><text>Monster of the Asteroid</text></navLabel><content src="monster_of_the_asteroid.xhtml"/></navPoint>
+        <navPoint id="the_vizigraph" playOrder="13"><navLabel><text>The Vizigraph</text></navLabel><content src="the_vizigraph.xhtml"/></navPoint>
+	</navMap>
+</ncx>

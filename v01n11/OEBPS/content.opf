@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="bookid">planet-stories-v01n11</dc:identifier>
+		<dc:title>Planet Stories</dc:title>
+		<dc:creator>Malcolm Reiss Ed.</dc:creator>
+		<dc:subject>Science Fiction Magazine</dc:subject>
+		<dc:description>.</dc:description>
+		<dc:publisher>Fiction House</dc:publisher>
+		<dc:date>1942</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta name="cover" content="v01n11.jpg" />
+		<meta property="dcterms:modified">2023-08-25T12:00:00Z</meta>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="css/book.css" media-type="text/css"/>
+
+		<item id="v01n11.jpg" href="images/v01n11.jpg" media-type="image/jpeg"/>
+		<item id="old_header.jpg" href="images/old_header.jpg" media-type="image/jpeg"/>
+		<item id="fiction_house.jpg" href="images/fiction_house.jpg" media-type="image/jpeg"/>
+		<item id="trade_council.jpg" href="images/trade_council.jpg" media-type="image/jpeg"/>
+
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="contents" href="contents.xhtml" media-type="application/xhtml+xml"/>
+        <item id="task_to_lahri" href="task_to_lahri.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_star-master" href="the_star-master.xhtml" media-type="application/xhtml+xml"/>
+        <item id="venus_enslaved" href="venus_enslaved.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_cosmic_derelict" href="the_cosmic_derelict.xhtml" media-type="application/xhtml+xml"/>
+        <item id="asteroid_of_the_damned" href="asteroid_of_the_damned.xhtml" media-type="application/xhtml+xml"/>
+        <item id="out_of_this_world" href="out_of_this_world.xhtml" media-type="application/xhtml+xml"/>
+        <item id="captain_chaos" href="captain_chaos.xhtml" media-type="application/xhtml+xml"/>
+        <item id="as_it_was" href="as_it_was.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_ringer_family" href="the_ringer_family.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_vizigraph" href="the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+		<item id="index" href="index.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no"/>
+		<itemref idref="contents"/>
+        <itemref idref="task_to_lahri"/>
+        <itemref idref="the_cosmic_derelict"/>
+        <itemref idref="asteroid_of_the_damned"/>
+        <itemref idref="the_star-master"/>
+        <itemref idref="out_of_this_world"/>
+        <itemref idref="captain_chaos"/>
+        <itemref idref="as_it_was"/>
+        <itemref idref="venus_enslaved"/>
+        <itemref idref="the_ringer_family"/>
+        <itemref idref="the_vizigraph"/>
+	</spine>
+	<guide>
+		<reference type="cover" title="Cover" href="cover.xhtml"/>
+		<reference type="toc" title="Table of Contents" href="contents.xhtml"></reference>
+		<reference type="text" title="Contents" href="index.xhtml"></reference>
+	</guide>
+</package>
+
+
+

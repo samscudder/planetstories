@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta name="dtb:uid" content="planet-stories-v01n01"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>PLANET STORIES</text></docTitle>
+	<navMap>
+        <navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+        <navPoint id="contents" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="contents.xhtml"/></navPoint>
+        <navPoint id="the_golden_amazons_of_venus" playOrder="3"><navLabel><text>The Golden Amazons of Venus</text></navLabel><content src="the_golden_amazons_of_venus.xhtml"/></navPoint>
+		<navPoint id="expedition_to_pluto" playOrder="4"><navLabel><text>Expedition to Pluto</text></navLabel><content src="expedition_to_pluto.xhtml"/></navPoint>
+		<navPoint id="war-lords_of_the_moon" playOrder="5"><navLabel><text>War-lords of the Moon</text></navLabel><content src="war-lords_of_the_moon.xhtml"/></navPoint>
+		<navPoint id="cave-dwellers_of_saturn" playOrder="6"><navLabel><text>Cave-dwellers of Saturn</text></navLabel><content src="cave-dwellers_of_saturn.xhtml"/></navPoint>
+	</navMap>
+</ncx>

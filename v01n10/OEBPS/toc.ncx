@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta name="dtb:uid" content="planet-stories-v01n10"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>PLANET STORIES</text></docTitle>
+	<navMap>
+        <navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+        <navPoint id="contents" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="contents.xhtml"/></navPoint>
+        <navPoint id="black_friar_of_the_flame" playOrder="3"><navLabel><text>Black Friar Of The Flame</text></navLabel><content src="black_friar_of_the_flame.xhtml"/></navPoint>
+        <navPoint id="the_star-mouse" playOrder="4"><navLabel><text>The Star-mouse</text></navLabel><content src="the_star-mouse.xhtml"/></navPoint>
+        <navPoint id="feature_flash" playOrder="5"><navLabel><text>Feature Flash</text></navLabel><content src="feature_flash.xhtml"/></navPoint>
+        <navPoint id="gods_of_space" playOrder="6"><navLabel><text>Gods Of Space</text></navLabel><content src="gods_of_space.xhtml"/></navPoint>
+        <navPoint id="the_ballad_of_venus_nell" playOrder="7"><navLabel><text>The Ballad Of Venus Nell</text></navLabel><content src="the_ballad_of_venus_nell.xhtml"/></navPoint>
+        <navPoint id="the_thing_of_venus" playOrder="8"><navLabel><text>The Thing Of Venus</text></navLabel><content src="the_thing_of_venus.xhtml"/></navPoint>
+        <navPoint id="pied_piper_of_mars" playOrder="9"><navLabel><text>Pied Piper Of Mars</text></navLabel><content src="pied_piper_of_mars.xhtml"/></navPoint>
+        <navPoint id="the_last_martian" playOrder="10"><navLabel><text>The Last Martian</text></navLabel><content src="the_last_martian.xhtml"/></navPoint>
+        <navPoint id="child_of_the_sun" playOrder="11"><navLabel><text>Child Of The Sun</text></navLabel><content src="child_of_the_sun.xhtml"/></navPoint>
+        <navPoint id="the_vizigraph" playOrder="12"><navLabel><text>The Vizigraph</text></navLabel><content src="the_vizigraph.xhtml"/></navPoint>
+	</navMap>
+</ncx>

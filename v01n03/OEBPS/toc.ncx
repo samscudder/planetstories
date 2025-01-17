@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta name="dtb:uid" content="planet-stories-v01n03"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>PLANET STORIES</text></docTitle>
+	<navMap>
+        <navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+        <navPoint id="contents" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="contents.xhtml"/></navPoint>
+        <navPoint id="space-liner_x-87" playOrder="3"><navLabel><text>Space-Liner X-87 </text></navLabel><content src="space-liner_x-87.xhtml"/></navPoint>
+        <navPoint id="the_forbidden_dream" playOrder="4"><navLabel><text>The Forbidden Dream</text></navLabel><content src="the_forbidden_dream.xhtml"/></navPoint>
+        <navPoint id="exiles_of_the_three_red_moons" playOrder="5"><navLabel><text>Exiles of the Three Red Moons </text></navLabel><content src="exiles_of_the_three_red_moons.xhtml"/></navPoint>
+        <navPoint id="the_cosmic_juggernaut" playOrder="6"><navLabel><text>The Cosmic Juggernaut</text></navLabel><content src="the_cosmic_juggernaut.xhtml"/></navPoint>
+        <navPoint id="the_dark_swordsmen_of_saturn" playOrder="7"><navLabel><text>The Dark Swordsman of Saturn</text></navLabel><content src="the_dark_swordsmen_of_saturn.xhtml"/></navPoint>
+        <navPoint id="sphere_of_the_never-dead" playOrder="8"><navLabel><text>Sphere of the Never Dead </text></navLabel><content src="sphere_of_the_never-dead.xhtml"/></navPoint>
+        <navPoint id="star_pirate" playOrder="9"><navLabel><text>Star Pirate</text></navLabel><content src="star_pirate.xhtml"/></navPoint>
+        <navPoint id="asteroid_h277-plus" playOrder="10"><navLabel><text>Asteroid H277-plus</text></navLabel><content src="asteroid_h277-plus.xhtml"/></navPoint>
+        <navPoint id="life_on_other_planets" playOrder="11"><navLabel><text>Life On Other Planets</text></navLabel><content src="life_on_other_planets.xhtml"/></navPoint>
+        <navPoint id="the_feature_flash" playOrder="12"><navLabel><text>The Feature Flash</text></navLabel><content src="the_feature_flash.xhtml"/></navPoint>
+        <navPoint id="the_vizigraph" playOrder="13"><navLabel><text>The Vizigraph</text></navLabel><content src="the_vizigraph.xhtml"/></navPoint>
+	</navMap>
+</ncx>

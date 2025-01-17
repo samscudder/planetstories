@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="bookid">planet-stories</dc:identifier>
+		<dc:title>Planet Stories</dc:title>
+		<dc:creator>Malcolm Reiss Ed.</dc:creator>
+		<dc:creator>Wilbur S. Peacock Ed.</dc:creator>
+		<dc:creator>Chester Whitehorn Ed.</dc:creator>
+		<dc:creator>Paul L. Payne Ed.</dc:creator>
+		<dc:creator>Jerome Bixby Ed.</dc:creator>
+		<dc:creator>Jack O'Sullivan Ed.</dc:creator>
+		<dc:subject>Science Fiction Magazine</dc:subject>
+		<dc:description>.</dc:description>
+		<dc:publisher>Fiction House</dc:publisher>
+		<dc:date>1955</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta name="cover" content="cover.jpg" />
+		<meta property="dcterms:modified">2023-08-25T12:00:00Z</meta>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="css/book.css" media-type="text/css"/>
+
+		<item id="cover.jpg" href="images/cover.jpg" media-type="image/jpeg"/>
+		<item id="old_header.jpg" href="images/old_header.jpg" media-type="image/jpeg"/>
+		<item id="new_header.jpg" href="images/new_header.jpg" media-type="image/jpeg"/>
+		<item id="fiction_house.jpg" href="images/fiction_house.jpg" media-type="image/jpeg"/>
+		<item id="trade_council.jpg" href="images/trade_council.jpg" media-type="image/jpeg"/>
+		<item id="v01n01.jpg" href="images/v01n01.jpg" media-type="image/jpeg"/>
+		<item id="v01n02.jpg" href="images/v01n02.jpg" media-type="image/jpeg"/>
+		<item id="v01n03.jpg" href="images/v01n03.jpg" media-type="image/jpeg"/>
+		<item id="v01n04.jpg" href="images/v01n04.jpg" media-type="image/jpeg"/>
+		<item id="v01n05.jpg" href="images/v01n05.jpg" media-type="image/jpeg"/>
+		<item id="v01n06.jpg" href="images/v01n06.jpg" media-type="image/jpeg"/>
+		<item id="v01n07.jpg" href="images/v01n07.jpg" media-type="image/jpeg"/>
+		<item id="v01n08.jpg" href="images/v01n08.jpg" media-type="image/jpeg"/>
+		<item id="v01n09.jpg" href="images/v01n09.jpg" media-type="image/jpeg"/>
+		<item id="v01n10.jpg" href="images/v01n10.jpg" media-type="image/jpeg"/>
+		<item id="v01n11.jpg" href="images/v01n11.jpg" media-type="image/jpeg"/>
+		<item id="v01n12.jpg" href="images/v01n12.jpg" media-type="image/jpeg"/>
+		<item id="v02n01.jpg" href="images/v02n01.jpg" media-type="image/jpeg"/>
+		<item id="v02n02.jpg" href="images/v02n02.jpg" media-type="image/jpeg"/>
+		<item id="v02n03.jpg" href="images/v02n03.jpg" media-type="image/jpeg"/>
+		<item id="v02n04.jpg" href="images/v02n04.jpg" media-type="image/jpeg"/>
+		<item id="v02n05.jpg" href="images/v02n05.jpg" media-type="image/jpeg"/>
+		<item id="v02n06.jpg" href="images/v02n06.jpg" media-type="image/jpeg"/>
+		<item id="v02n07.jpg" href="images/v02n07.jpg" media-type="image/jpeg"/>
+		<item id="v02n08.jpg" href="images/v02n08.jpg" media-type="image/jpeg"/>
+		<item id="v02n09.jpg" href="images/v02n09.jpg" media-type="image/jpeg"/>
+		<item id="v02n10.jpg" href="images/v02n10.jpg" media-type="image/jpeg"/>
+		<item id="v02n11.jpg" href="images/v02n11.jpg" media-type="image/jpeg"/>
+		<item id="v02n12.jpg" href="images/v02n12.jpg" media-type="image/jpeg"/>
+		<item id="v03n01.jpg" href="images/v03n01.jpg" media-type="image/jpeg"/>
+		<item id="v03n02.jpg" href="images/v03n02.jpg" media-type="image/jpeg"/>
+		<item id="v03n03.jpg" href="images/v03n03.jpg" media-type="image/jpeg"/>
+		<item id="v03n04.jpg" href="images/v03n04.jpg" media-type="image/jpeg"/>
+		<item id="v03n05.jpg" href="images/v03n05.jpg" media-type="image/jpeg"/>
+		<item id="v03n06.jpg" href="images/v03n06.jpg" media-type="image/jpeg"/>
+		<item id="v03n07.jpg" href="images/v03n07.jpg" media-type="image/jpeg"/>
+		<item id="v03n08.jpg" href="images/v03n08.jpg" media-type="image/jpeg"/>
+		<item id="v03n09.jpg" href="images/v03n09.jpg" media-type="image/jpeg"/>
+		<item id="v03n10.jpg" href="images/v03n10.jpg" media-type="image/jpeg"/>
+		<item id="v03n11.jpg" href="images/v03n11.jpg" media-type="image/jpeg"/>
+		<item id="v03n12.jpg" href="images/v03n12.jpg" media-type="image/jpeg"/>
+
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+
+		<item id="v01n01-cover" href="v01n01/cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v01n01-toc" href="v01n01/toc.xhtml" media-type="application/xhtml+xml"/>
+		<item id="the_golden_amazons_of_venus" href="v01n01/the_golden_amazons_of_venus.xhtml" media-type="application/xhtml+xml"/>
+		<item id="expedition_to_pluto" href="v01n01/expedition_to_pluto.xhtml" media-type="application/xhtml+xml"/>
+		<item id="war-lords_of_the_moon" href="v01n01/war-lords_of_the_moon.xhtml" media-type="application/xhtml+xml"/>
+		<item id="cave-dwellers_of_saturn" href="v01n01/cave-dwellers_of_saturn.xhtml" media-type="application/xhtml+xml"/>
+
+        <item id="v01n02-cover" href="v01n02/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n02-toc" href="v01n02/toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="goddess_of_the_moon" href="v01n02/goddess_of_the_moon.xhtml" media-type="application/xhtml+xml"/>
+        <item id="dictator_of_time" href="v01n02/dictator_of_time.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_girl_from_infinite_smallness" href="v01n02/the_girl_from_infinite_smallness.xhtml" media-type="application/xhtml+xml"/>
+        <item id="martian_terror" href="v01n02/martian_terror.xhtml" media-type="application/xhtml+xml"/>
+        <item id="revolt_on_the_earth-star" href="v01n02/revolt_on_the_earth-star.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_tantalus_death" href="v01n02/the_tantalus_death.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_space_flame" href="v01n02/the_space_flame.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_man_who_killed_the_earth" href="v01n02/the_man_who_killed_the_earth.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n02-the_feature_flash" href="v01n02/the_feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n02-the_vizigraph" href="v01n02/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+        <item id="v01n03-cover" href="v01n03/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n03-toc" href="v01n03/toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="space-liner_x-87" href="v01n03/space-liner_x-87.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_forbidden_dream" href="v01n03/the_forbidden_dream.xhtml" media-type="application/xhtml+xml"/>
+        <item id="exiles_of_the_three_red_moons" href="v01n03/exiles_of_the_three_red_moons.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_cosmic_juggernaut" href="v01n03/the_cosmic_juggernaut.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_dark_swordsmen_of_saturn" href="v01n03/the_dark_swordsmen_of_saturn.xhtml" media-type="application/xhtml+xml"/>
+        <item id="sphere_of_the_never-dead" href="v01n03/sphere_of_the_never-dead.xhtml" media-type="application/xhtml+xml"/>
+        <item id="star_pirate" href="v01n03/star_pirate.xhtml" media-type="application/xhtml+xml"/>
+        <item id="asteroid_h277-plus" href="v01n03/asteroid_h277-plus.xhtml" media-type="application/xhtml+xml"/>
+        <item id="life_on_other_planets" href="v01n03/life_on_other_planets.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n03-the_feature_flash" href="v01n03/the_feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n03-the_vizigraph" href="v01n03/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+		<item id="v01n04-cover" href="v01n04/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n04-toc" href="v01n04/toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_ultimate_salient" href="v01n04/the_ultimate_salient.xhtml" media-type="application/xhtml+xml"/>
+        <item id="revolt_in_the_ice_kingdom" href="v01n04/revolt_in_the_ice_kingdom.xhtml" media-type="application/xhtml+xml"/>
+        <item id="buccaneer_of_the_star_seas" href="v01n04/buccaneer_of_the_star_seas.xhtml" media-type="application/xhtml+xml"/>
+        <item id="domain_of_zero" href="v01n04/domain_of_zero.xhtml" media-type="application/xhtml+xml"/>
+        <item id="quest_on_io" href="v01n04/quest_on_io.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_planet_that_time_forgot" href="v01n04/the_planet_that_time_forgot.xhtml" media-type="application/xhtml+xml"/>
+        <item id="hermit_of_saturns_ring" href="v01n04/hermit_of_saturns_ring.xhtml" media-type="application/xhtml+xml"/>
+        <item id="venus_has_green_eyes" href="v01n04/venus_has_green_eyes.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n04-the_feature_flash" href="v01n04/the_feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n04-the_vizigraph" href="v01n04/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+		<item id="v01n05-cover" href="v01n05/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n05-toc" href="v01n05/toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="one_thousand_miles_below" href="v01n05/one_thousand_miles_below.xhtml" media-type="application/xhtml+xml"/>
+        <item id="phantom_of_the_seven_stars" href="v01n05/phantom_of_the_seven_stars.xhtml" media-type="application/xhtml+xml"/>
+        <item id="twilight_of_the_tenth_world" href="v01n05/twilight_of_the_tenth_world.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_castaway" href="v01n05/the_castaway.xhtml" media-type="application/xhtml+xml"/>
+        <item id="atom_of_death" href="v01n05/atom_of_death.xhtml" media-type="application/xhtml+xml"/>
+        <item id="beyond_light" href="v01n05/beyond_light.xhtml" media-type="application/xhtml+xml"/>
+        <item id="exit_from_asteroid_60" href="v01n05/exit_from_asteroid_60.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_stellar_legion" href="v01n05/the_stellar_legion.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n05-the_feature_flash" href="v01n05/the_feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n05-the_vizigraph" href="v01n05/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+		<item id="v01n06-cover" href="v01n06/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n06-toc" href="v01n06/toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_war-nymphs_of_venus" href="v01n06/the_war-nymphs_of_venus.xhtml" media-type="application/xhtml+xml"/>
+        <item id="vampire_of_the_void" href="v01n06/vampire_of_the_void.xhtml" media-type="application/xhtml+xml"/>
+        <item id="exiles_of_the_desert_star" href="v01n06/exiles_of_the_desert_star.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_monster_that_threatened_the_universe" href="v01n06/the_monster_that_threatened_the_universe.xhtml" media-type="application/xhtml+xml"/>
+        <item id="treasure_of_triton" href="v01n06/treasure_of_triton.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_cosmic_derelict" href="v01n06/the_cosmic_derelict.xhtml" media-type="application/xhtml+xml"/>
+        <item id="_4_b_eros" href="v01n06/4_b_eros.xhtml" media-type="application/xhtml+xml"/>
+        <item id="satellite_of_fear" href="v01n06/satellite_of_fear.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n06-the_vizigraph" href="v01n06/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+		<item id="v01n07-cover" href="v01n07/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n07-toc" href="v01n07/toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="invaders_of_the_forbidden_moon" href="v01n07/invaders_of_the_forbidden_moon.xhtml" media-type="application/xhtml+xml"/>
+        <item id="sargasso_of_the_stars" href="v01n07/sargasso_of_the_stars.xhtml" media-type="application/xhtml+xml"/>
+        <item id="mutiny_aboard_the_terra" href="v01n07/mutiny_aboard_the_terra.xhtml" media-type="application/xhtml+xml"/>
+        <item id="proktols_of_neptune" href="v01n07/proktols_of_neptune.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_ballad_of_blaster_bill" href="v01n07/the_ballad_of_blaster_bill.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_dragon-queen_of_jupiter" href="v01n07/the_dragon-queen_of_jupiter.xhtml" media-type="application/xhtml+xml"/>
+        <item id="genesis" href="v01n07/genesis.xhtml" media-type="application/xhtml+xml"/>
+        <item id="world_of_mockery" href="v01n07/world_of_mockery.xhtml" media-type="application/xhtml+xml"/>
+        <item id="space-wolf" href="v01n07/space-wolf.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n07-feature_flash" href="v01n07/feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n07-the_vizigraph" href="v01n07/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+        <item id="v01n08-cover" href="v01n08/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n08-toc" href="v01n08/toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="vassals_of_the_master_world" href="v01n08/vassals_of_the_master_world.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_raiders_of_saturns_rings" href="v01n08/the_raiders_of_saturns_rings.xhtml" media-type="application/xhtml+xml"/>
+        <item id="shadrach" href="v01n08/shadrach.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_victory_of_klon" href="v01n08/the_victory_of_klon.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_star_of_satan" href="v01n08/the_star_of_satan.xhtml" media-type="application/xhtml+xml"/>
+        <item id="dead_mans_planet" href="v01n08/dead_mans_planet.xhtml" media-type="application/xhtml+xml"/>
+        <item id="south_to_propontis" href="v01n08/south_to_propontis.xhtml" media-type="application/xhtml+xml"/>
+        <item id="spawn_of_the_venus_sea" href="v01n08/spawn_of_the_venus_sea.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n08-feature_flash" href="v01n08/feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n08-the_vizigraph" href="v01n08/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+        <item id="v01n09-cover" href="v01n09/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n09-toc" href="v01n09/toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_lorelei_death" href="v01n09/the_lorelei_death.xhtml" media-type="application/xhtml+xml"/>
+        <item id="man_of_the_stars" href="v01n09/man_of_the_stars.xhtml" media-type="application/xhtml+xml"/>
+        <item id="espionage_in_space" href="v01n09/espionage_in_space.xhtml" media-type="application/xhtml+xml"/>
+        <item id="monster_of_the_asteroid" href="v01n09/monster_of_the_asteroid.xhtml" media-type="application/xhtml+xml"/>
+        <item id="queen_of_the_blue_world" href="v01n09/queen_of_the_blue_world.xhtml" media-type="application/xhtml+xml"/>
+        <item id="a_planet_for_your_thoughts" href="v01n09/a_planet_for_your_thoughts.xhtml" media-type="application/xhtml+xml"/>
+        <item id="thief_of_mars" href="v01n09/thief_of_mars.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_mercurian" href="v01n09/the_mercurian.xhtml" media-type="application/xhtml+xml"/>
+        <item id="zurk" href="v01n09/zurk.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n09-feature_flash" href="v01n09/feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n09-the_vizigraph" href="v01n09/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+        <item id="v01n10-cover" href="v01n10/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n10-toc" href="v01n10/toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="black_friar_of_the_flame" href="v01n10/black_friar_of_the_flame.xhtml" media-type="application/xhtml+xml"/>
+        <item id="gods_of_space" href="v01n10/gods_of_space.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_thing_of_venus" href="v01n10/the_thing_of_venus.xhtml" media-type="application/xhtml+xml"/>
+        <item id="child_of_the_sun" href="v01n10/child_of_the_sun.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_star-mouse" href="v01n10/the_star-mouse.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_ballad_of_venus_nell" href="v01n10/the_ballad_of_venus_nell.xhtml" media-type="application/xhtml+xml"/>
+        <item id="pied_piper_of_mars" href="v01n10/pied_piper_of_mars.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_last_martian" href="v01n10/the_last_martian.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n10-feature_flash" href="v01n10/feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n10-the_vizigraph" href="v01n10/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+        <item id="v01n11-cover" href="v01n11/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n11-toc" href="v01n11/toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="task_to_lahri" href="v01n11/task_to_lahri.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_star-master" href="v01n11/the_star-master.xhtml" media-type="application/xhtml+xml"/>
+        <item id="venus_enslaved" href="v01n11/venus_enslaved.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_cosmic_derelict2" href="v01n11/the_cosmic_derelict.xhtml" media-type="application/xhtml+xml"/>
+        <item id="asteroid_of_the_damned" href="v01n11/asteroid_of_the_damned.xhtml" media-type="application/xhtml+xml"/>
+        <item id="out_of_this_world" href="v01n11/out_of_this_world.xhtml" media-type="application/xhtml+xml"/>
+        <item id="captain_chaos" href="v01n11/captain_chaos.xhtml" media-type="application/xhtml+xml"/>
+        <item id="as_it_was" href="v01n11/as_it_was.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n11-the_ringer_family" href="v01n11/the_ringer_family.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n11-the_vizigraph" href="v01n11/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+        <item id="v01n12-cover" href="v01n12/cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n12-toc" href="v01n12/toc.xhtml" media-type="application/xhtml+xml"/>
+        <item id="war-gods_of_the_void" href="v01n12/war-gods_of_the_void.xhtml" media-type="application/xhtml+xml"/>
+        <item id="space_oasis" href="v01n12/space_oasis.xhtml" media-type="application/xhtml+xml"/>
+        <item id="vampire_queen" href="v01n12/vampire_queen.xhtml" media-type="application/xhtml+xml"/>
+        <item id="stellar_showboat" href="v01n12/stellar_showboat.xhtml" media-type="application/xhtml+xml"/>
+        <item id="city_of_the_living_flame" href="v01n12/city_of_the_living_flame.xhtml" media-type="application/xhtml+xml"/>
+        <item id="quest_of_thig" href="v01n12/quest_of_thig.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_thought-men_of_mercury" href="v01n12/the_thought-men_of_mercury.xhtml" media-type="application/xhtml+xml"/>
+        <item id="prison_planet" href="v01n12/prison_planet.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n12-the_feature_flash" href="v01n12/the_feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="v01n12-the_vizigraph" href="v01n12/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+		<item id="v03n01-cover" href="v03n01/cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v03n01-toc" href="v03n01/toc.xhtml" media-type="application/xhtml+xml"/>
+		<item id="that_great_green_blight" href="v03n01/that_great_green_blight.xhtml" media-type="application/xhtml+xml"/>
+		<item id="steel_giants_of_chaos" href="v03n01/steel_giants_of_chaos.xhtml" media-type="application/xhtml+xml"/>
+		<item id="passage_to_planet_x" href="v03n01/passage_to_planet_x.xhtml" media-type="application/xhtml+xml"/>
+		<item id="mannth" href="v03n01/mannth.xhtml" media-type="application/xhtml+xml"/>
+		<item id="the_diversifal" href="v03n01/the_diversifal.xhtml" media-type="application/xhtml+xml"/>
+		<item id="the_ultimate_world" href="v03n01/the_ultimate_world.xhtml" media-type="application/xhtml+xml"/>
+		<item id="venusian_invader" href="v03n01/venusian_invader.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v03n01-the_ringers" href="v03n01/the_ringers.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v03n01-p_s_feature_flash" href="v03n01/p_s_feature_flash.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v03n01-the_vizigraph" href="v03n01/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+		<item id="v03n02-cover" href="v03n02/cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v03n02-toc" href="v03n02/toc.xhtml" media-type="application/xhtml+xml"/>
+		<item id="engines_of_the_gods" href="v03n02/engines_of_the_gods.xhtml" media-type="application/xhtml+xml"/>
+		<item id="the_blue_venus" href="v03n02/the_blue_venus.xhtml" media-type="application/xhtml+xml"/>
+		<item id="what_hath_me" href="v03n02/what_hath_me.xhtml" media-type="application/xhtml+xml"/>
+		<item id="survival" href="v03n02/survival.xhtml" media-type="application/xhtml+xml"/>
+		<item id="defense_mech" href="v03n02/defense_mech.xhtml" media-type="application/xhtml+xml"/>
+		<item id="electron_eat_electron" href="v03n02/electron_eat_electron.xhtml" media-type="application/xhtml+xml"/>
+		<item id="crisis_on_titan" href="v03n02/crisis_on_titan.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v03n02-the_ringers" href="v03n02/the_ringers.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v03n02-p_s_feature_flash" href="v03n02/p_s_feature_flash.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v03n02-the_vizigraph" href="v03n02/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+
+		<item id="v03n03-cover" href="v03n03/cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v03n03-toc" href="v03n03/toc.xhtml" media-type="application/xhtml+xml"/>
+		<item id="lorelei_of_the_red_mist" href="v03n03/lorelei_of_the_red_mist.xhtml" media-type="application/xhtml+xml"/>
+		<item id="captives_of_the_wier-wind" href="v03n03/captives_of_the_wier-wind.xhtml" media-type="application/xhtml+xml"/>
+		<item id="the_shadow-gods" href="v03n03/the_shadow-gods.xhtml" media-type="application/xhtml+xml"/>
+		<item id="the_pumpkin_eater" href="v03n03/the_pumpkin_eater.xhtml" media-type="application/xhtml+xml"/>
+		<item id="space-lane_of_no_return" href="v03n03/space-lane_of_no_return.xhtml" media-type="application/xhtml+xml"/>
+		<item id="prisoner_of_the_brain-mistress" href="v03n03/prisoner_of_the_brain-mistress.xhtml" media-type="application/xhtml+xml"/>
+		<item id="the_million_year_picnic" href="v03n03/the_million_year_picnic.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v03n03-p_s_feature_flash" href="v03n03/p_s_feature_flash.xhtml" media-type="application/xhtml+xml"/>
+		<item id="v03n03-the_vizigraph" href="v03n03/the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no"/>
+		<itemref idref="toc"/>
+		<itemref idref="v01n01-cover"/>
+		<itemref idref="v01n01-toc"/>
+		<itemref idref="the_golden_amazons_of_venus"/>
+		<itemref idref="expedition_to_pluto"/>
+		<itemref idref="war-lords_of_the_moon"/>
+		<itemref idref="cave-dwellers_of_saturn"/>
+        <itemref idref="v01n02-cover"/>
+        <itemref idref="v01n02-toc"/>
+        <itemref idref="goddess_of_the_moon"/>
+        <itemref idref="dictator_of_time"/>
+        <itemref idref="the_girl_from_infinite_smallness"/>
+        <itemref idref="martian_terror"/>
+        <itemref idref="revolt_on_the_earth-star"/>
+        <itemref idref="the_tantalus_death"/>
+        <itemref idref="the_space_flame"/>
+        <itemref idref="the_man_who_killed_the_earth"/>
+        <itemref idref="v01n02-the_feature_flash"/>
+        <itemref idref="v01n02-the_vizigraph"/>
+        <itemref idref="v01n03-cover"/>
+        <itemref idref="v01n03-toc"/>
+        <itemref idref="space-liner_x-87"/>
+        <itemref idref="the_forbidden_dream"/>
+        <itemref idref="exiles_of_the_three_red_moons"/>
+        <itemref idref="the_cosmic_juggernaut"/>
+        <itemref idref="the_dark_swordsmen_of_saturn"/>
+        <itemref idref="sphere_of_the_never-dead"/>
+        <itemref idref="star_pirate"/>
+        <itemref idref="asteroid_h277-plus"/>
+        <itemref idref="life_on_other_planets"/>
+        <itemref idref="v01n03-the_feature_flash"/>
+        <itemref idref="v01n03-the_vizigraph"/>
+        <itemref idref="v01n04-cover"/>
+        <itemref idref="v01n04-toc"/>
+        <itemref idref="the_ultimate_salient"/>
+        <itemref idref="revolt_in_the_ice_kingdom"/>
+        <itemref idref="buccaneer_of_the_star_seas"/>
+        <itemref idref="domain_of_zero"/>
+        <itemref idref="quest_on_io"/>
+        <itemref idref="the_planet_that_time_forgot"/>
+        <itemref idref="hermit_of_saturns_ring"/>
+        <itemref idref="venus_has_green_eyes"/>
+        <itemref idref="v01n04-the_feature_flash"/>
+        <itemref idref="v01n04-the_vizigraph"/>
+        <itemref idref="v01n05-cover"/>
+        <itemref idref="v01n05-toc"/>
+        <itemref idref="one_thousand_miles_below"/>
+        <itemref idref="phantom_of_the_seven_stars"/>
+        <itemref idref="twilight_of_the_tenth_world"/>
+        <itemref idref="the_castaway"/>
+        <itemref idref="atom_of_death"/>
+        <itemref idref="beyond_light"/>
+        <itemref idref="exit_from_asteroid_60"/>
+        <itemref idref="the_stellar_legion"/>
+        <itemref idref="v01n05-the_feature_flash"/>
+        <itemref idref="v01n05-the_vizigraph"/>
+        <itemref idref="v01n06-cover"/>
+        <itemref idref="v01n06-toc"/>
+        <itemref idref="the_war-nymphs_of_venus"/>
+        <itemref idref="vampire_of_the_void"/>
+        <itemref idref="exiles_of_the_desert_star"/>
+        <itemref idref="the_monster_that_threatened_the_universe"/>
+        <itemref idref="treasure_of_triton"/>
+        <itemref idref="the_cosmic_derelict"/>
+        <itemref idref="_4_b_eros"/>
+        <itemref idref="satellite_of_fear"/>
+        <itemref idref="v01n06-the_vizigraph"/>
+        <itemref idref="v01n07-cover"/>
+        <itemref idref="v01n07-toc"/>
+        <itemref idref="invaders_of_the_forbidden_moon"/>
+        <itemref idref="sargasso_of_the_stars"/>
+        <itemref idref="mutiny_aboard_the_terra"/>
+        <itemref idref="proktols_of_neptune"/>
+        <itemref idref="the_ballad_of_blaster_bill"/>
+        <itemref idref="the_dragon-queen_of_jupiter"/>
+        <itemref idref="genesis"/>
+        <itemref idref="world_of_mockery"/>
+        <itemref idref="space-wolf"/>
+        <itemref idref="v01n07-feature_flash"/>
+        <itemref idref="v01n07-the_vizigraph"/>
+        <itemref idref="v01n08-cover"/>
+        <itemref idref="v01n08-toc"/>
+        <itemref idref="vassals_of_the_master_world"/>
+        <itemref idref="the_raiders_of_saturns_rings"/>
+        <itemref idref="shadrach"/>
+        <itemref idref="the_victory_of_klon"/>
+        <itemref idref="the_star_of_satan"/>
+        <itemref idref="dead_mans_planet"/>
+        <itemref idref="south_to_propontis"/>
+        <itemref idref="spawn_of_the_venus_sea"/>
+        <itemref idref="v01n08-feature_flash"/>
+        <itemref idref="v01n08-the_vizigraph"/>
+        <itemref idref="v01n09-cover"/>
+        <itemref idref="v01n09-toc"/>
+        <itemref idref="the_lorelei_death"/>
+        <itemref idref="man_of_the_stars"/>
+        <itemref idref="espionage_in_space"/>
+        <itemref idref="monster_of_the_asteroid"/>
+        <itemref idref="queen_of_the_blue_world"/>
+        <itemref idref="a_planet_for_your_thoughts"/>
+        <itemref idref="thief_of_mars"/>
+        <itemref idref="the_mercurian"/>
+        <itemref idref="zurk"/>
+        <itemref idref="v01n09-feature_flash"/>
+        <itemref idref="v01n09-the_vizigraph"/>
+        <itemref idref="v01n10-cover"/>
+        <itemref idref="v01n10-toc"/>
+        <itemref idref="black_friar_of_the_flame"/>
+        <itemref idref="gods_of_space"/>
+        <itemref idref="the_thing_of_venus"/>
+        <itemref idref="child_of_the_sun"/>
+        <itemref idref="the_star-mouse"/>
+        <itemref idref="the_ballad_of_venus_nell"/>
+        <itemref idref="pied_piper_of_mars"/>
+        <itemref idref="the_last_martian"/>
+        <itemref idref="v01n10-feature_flash"/>
+        <itemref idref="v01n10-the_vizigraph"/>
+        <itemref idref="v01n11-cover"/>
+        <itemref idref="v01n11-toc"/>
+        <itemref idref="task_to_lahri"/>
+        <itemref idref="the_star-master"/>
+        <itemref idref="venus_enslaved"/>
+        <itemref idref="the_cosmic_derelict2"/>
+        <itemref idref="asteroid_of_the_damned"/>
+        <itemref idref="out_of_this_world"/>
+        <itemref idref="captain_chaos"/>
+        <itemref idref="as_it_was"/>
+        <itemref idref="v01n11-the_ringer_family"/>
+        <itemref idref="v01n11-the_vizigraph"/>
+        <itemref idref="v01n12-cover"/>
+        <itemref idref="v01n12-toc"/>
+        <itemref idref="war-gods_of_the_void"/>
+        <itemref idref="space_oasis"/>
+        <itemref idref="vampire_queen"/>
+        <itemref idref="stellar_showboat"/>
+        <itemref idref="city_of_the_living_flame"/>
+        <itemref idref="quest_of_thig"/>
+        <itemref idref="the_thought-men_of_mercury"/>
+        <itemref idref="prison_planet"/>
+        <itemref idref="v01n12-the_feature_flash"/>
+        <itemref idref="v01n12-the_vizigraph"/>
+		<itemref idref="v03n01-cover"/>
+		<itemref idref="v03n01-toc"/>
+		<itemref idref="that_great_green_blight"/>
+		<itemref idref="steel_giants_of_chaos"/>
+		<itemref idref="passage_to_planet_x"/>
+		<itemref idref="mannth"/>
+		<itemref idref="the_diversifal"/>
+		<itemref idref="the_ultimate_world"/>
+		<itemref idref="venusian_invader"/>
+		<itemref idref="v03n01-the_ringers"/>
+		<itemref idref="v03n01-p_s_feature_flash"/>
+		<itemref idref="v03n01-the_vizigraph"/>
+		<itemref idref="v03n02-cover"/>
+		<itemref idref="v03n02-toc"/>
+		<itemref idref="engines_of_the_gods"/>
+		<itemref idref="the_blue_venus"/>
+		<itemref idref="what_hath_me"/>
+		<itemref idref="survival"/>
+		<itemref idref="defense_mech"/>
+		<itemref idref="electron_eat_electron"/>
+		<itemref idref="crisis_on_titan"/>
+		<itemref idref="v03n02-the_ringers"/>
+		<itemref idref="v03n02-p_s_feature_flash"/>
+		<itemref idref="v03n02-the_vizigraph"/>
+		<itemref idref="v03n03-cover"/>
+		<itemref idref="v03n03-toc"/>
+		<itemref idref="lorelei_of_the_red_mist"/>
+		<itemref idref="captives_of_the_wier-wind"/>
+		<itemref idref="the_shadow-gods"/>
+		<itemref idref="the_pumpkin_eater"/>
+		<itemref idref="space-lane_of_no_return"/>
+		<itemref idref="prisoner_of_the_brain-mistress"/>
+		<itemref idref="the_million_year_picnic"/>
+		<itemref idref="v03n03-p_s_feature_flash"/>
+		<itemref idref="v03n03-the_vizigraph"/>
+	</spine>
+	<guide>
+		<reference type="cover" title="Cover" href="cover.xhtml"/>
+		<reference type="toc" title="Table of Contents" href="toc.xhtml"></reference>
+		<reference type="text" title="Contents" href="v01n01/toc.xhtml"></reference>
+	</guide>
+</package>
+
+
+

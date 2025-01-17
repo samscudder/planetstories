@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="bookid">planet-stories-v01n03</dc:identifier>
+		<dc:title>Planet Stories</dc:title>
+		<dc:creator>Malcolm Reiss Ed.</dc:creator>
+		<dc:subject>Science Fiction Magazine</dc:subject>
+		<dc:description>.</dc:description>
+		<dc:publisher>Fiction House</dc:publisher>
+		<dc:date>1940</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta name="cover" content="v01n03.jpg" />
+		<meta property="dcterms:modified">2023-10-24T12:00:00Z</meta>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="css/book.css" media-type="text/css"/>
+
+		<item id="v01n03.jpg" href="images/v01n03.jpg" media-type="image/jpeg"/>
+		<item id="old_header.jpg" href="images/old_header.jpg" media-type="image/jpeg"/>
+		<item id="fiction_house.jpg" href="images/fiction_house.jpg" media-type="image/jpeg"/>
+		<item id="trade_council.jpg" href="images/trade_council.jpg" media-type="image/jpeg"/>
+
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="contents" href="contents.xhtml" media-type="application/xhtml+xml"/>
+        <item id="space-liner_x-87" href="space-liner_x-87.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_forbidden_dream" href="the_forbidden_dream.xhtml" media-type="application/xhtml+xml"/>
+        <item id="exiles_of_the_three_red_moons" href="exiles_of_the_three_red_moons.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_cosmic_juggernaut" href="the_cosmic_juggernaut.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_dark_swordsmen_of_saturn" href="the_dark_swordsmen_of_saturn.xhtml" media-type="application/xhtml+xml"/>
+        <item id="sphere_of_the_never-dead" href="sphere_of_the_never-dead.xhtml" media-type="application/xhtml+xml"/>
+        <item id="star_pirate" href="star_pirate.xhtml" media-type="application/xhtml+xml"/>
+        <item id="asteroid_h277-plus" href="asteroid_h277-plus.xhtml" media-type="application/xhtml+xml"/>
+        <item id="life_on_other_planets" href="life_on_other_planets.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_feature_flash" href="the_feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_vizigraph" href="the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+		<item id="index" href="index.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no"/>
+		<itemref idref="contents"/>
+        <itemref idref="space-liner_x-87"/>
+        <itemref idref="the_forbidden_dream"/>
+        <itemref idref="exiles_of_the_three_red_moons"/>
+        <itemref idref="the_cosmic_juggernaut"/>
+        <itemref idref="the_dark_swordsmen_of_saturn"/>
+        <itemref idref="sphere_of_the_never-dead"/>
+        <itemref idref="star_pirate"/>
+        <itemref idref="asteroid_h277-plus"/>
+        <itemref idref="life_on_other_planets"/>
+        <itemref idref="the_feature_flash"/>
+        <itemref idref="the_vizigraph"/>
+	</spine>
+	<guide>
+		<reference type="cover" title="Cover" href="cover.xhtml"/>
+		<reference type="toc" title="Table of Contents" href="contents.xhtml"></reference>
+		<reference type="text" title="Contents" href="index.xhtml"></reference>
+	</guide>
+</package>
+
+
+

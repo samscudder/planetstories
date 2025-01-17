@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta name="dtb:uid" content="planet-stories-v01n07"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>PLANET STORIES</text></docTitle>
+	<navMap>
+        <navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+        <navPoint id="contents" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="contents.xhtml"/></navPoint>
+        <navPoint id="invaders_of_the_forbidden_moon" playOrder="3"><navLabel><text>Invaders of the Forbidden Moon</text></navLabel><content src="invaders_of_the_forbidden_moon.xhtml"/></navPoint>
+        <navPoint id="the_ballad_of_blaster_bill" playOrder="4"><navLabel><text>The Ballad of Blaster Bill</text></navLabel><content src="the_ballad_of_blaster_bill.xhtml"/></navPoint>
+        <navPoint id="the_dragon-queen_of_jupiter" playOrder="5"><navLabel><text>The Dragon-queen Of Jupiter</text></navLabel><content src="the_dragon-queen_of_jupiter.xhtml"/></navPoint>
+        <navPoint id="sargasso_of_the_stars" playOrder="6"><navLabel><text>Sargasso of the Stars</text></navLabel><content src="sargasso_of_the_stars.xhtml"/></navPoint>
+        <navPoint id="genesis" playOrder="7"><navLabel><text>Genesis!</text></navLabel><content src="genesis.xhtml"/></navPoint>
+        <navPoint id="world_of_mockery" playOrder="8"><navLabel><text>World of Mockery</text></navLabel><content src="world_of_mockery.xhtml"/></navPoint>
+        <navPoint id="mutiny_aboard_the_terra" playOrder="9"><navLabel><text>Mutiny Aboard the “terra”</text></navLabel><content src="mutiny_aboard_the_terra.xhtml"/></navPoint>
+        <navPoint id="space-wolf" playOrder="10"><navLabel><text>Space-Wolf</text></navLabel><content src="space-wolf.xhtml"/></navPoint>
+        <navPoint id="feature_flash" playOrder="11"><navLabel><text>Feature Flash</text></navLabel><content src="feature_flash.xhtml"/></navPoint>
+        <navPoint id="proktols_of_neptune" playOrder="12"><navLabel><text>Proktols of Neptune</text></navLabel><content src="proktols_of_neptune.xhtml"/></navPoint>
+        <navPoint id="the_vizigraph" playOrder="13"><navLabel><text>The Vizigraph</text></navLabel><content src="the_vizigraph.xhtml"/></navPoint>
+	</navMap>
+</ncx>

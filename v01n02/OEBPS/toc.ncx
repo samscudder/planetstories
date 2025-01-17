@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta name="dtb:uid" content="planet-stories-v01n01"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>PLANET STORIES</text></docTitle>
+	<navMap>
+        <navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+        <navPoint id="contents" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="contents.xhtml"/></navPoint>
+        <navPoint id="goddess_of_the_moon" playOrder="3"><navLabel><text>Goddess of the Moon</text></navLabel><content src="goddess_of_the_moon.xhtml"/></navPoint>
+        <navPoint id="dictator_of_time" playOrder="4"><navLabel><text>Dictator of Time</text></navLabel><content src="dictator_of_time.xhtml"/></navPoint>
+        <navPoint id="the_girl_from_infinite_smallness" playOrder="5"><navLabel><text>The Girl from Infinite Smallness</text></navLabel><content src="the_girl_from_infinite_smallness.xhtml"/></navPoint>
+        <navPoint id="martian_terror" playOrder="6"><navLabel><text>Martian Terror</text></navLabel><content src="martian_terror.xhtml"/></navPoint>
+        <navPoint id="revolt_on_the_earth-star" playOrder="7"><navLabel><text>Revolt on the Earth-Star</text></navLabel><content src="revolt_on_the_earth-star.xhtml"/></navPoint>
+        <navPoint id="the_tantalus_death" playOrder="8"><navLabel><text>The Tantalus Death</text></navLabel><content src="the_tantalus_death.xhtml"/></navPoint>
+        <navPoint id="the_space_flame" playOrder="9"><navLabel><text>The Space Flame</text></navLabel><content src="the_space_flame.xhtml"/></navPoint>
+        <navPoint id="the_man_who_killed_the_earth" playOrder="10"><navLabel><text>The Man Who Killed the Earth</text></navLabel><content src="the_man_who_killed_the_earth.xhtml"/></navPoint>
+        <navPoint id="the_feature_flash" playOrder="11"><navLabel><text>The Feature Flash</text></navLabel><content src="the_feature_flash.xhtml"/></navPoint>
+        <navPoint id="the_vizigraph" playOrder="12"><navLabel><text>The Vizigraph</text></navLabel><content src="the_vizigraph.xhtml"/></navPoint>
+	</navMap>
+</ncx>

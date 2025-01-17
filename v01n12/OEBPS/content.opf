@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="bookid">planet-stories-v01n12</dc:identifier>
+		<dc:title>Planet Stories</dc:title>
+		<dc:creator>Wilbur S. Peacock Ed.</dc:creator>
+		<dc:subject>Science Fiction Magazine</dc:subject>
+		<dc:description>.</dc:description>
+		<dc:publisher>Fiction House</dc:publisher>
+		<dc:date>1942</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta name="cover" content="v01n12.jpg" />
+		<meta property="dcterms:modified">2023-10-25T12:00:00Z</meta>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="css/book.css" media-type="text/css"/>
+
+		<item id="v01n12.jpg" href="images/v01n12.jpg" media-type="image/jpeg"/>
+		<item id="old_header.jpg" href="images/old_header.jpg" media-type="image/jpeg"/>
+		<item id="fiction_house.jpg" href="images/fiction_house.jpg" media-type="image/jpeg"/>
+		<item id="trade_council.jpg" href="images/trade_council.jpg" media-type="image/jpeg"/>
+
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="contents" href="contents.xhtml" media-type="application/xhtml+xml"/>
+        <item id="war-gods_of_the_void" href="war-gods_of_the_void.xhtml" media-type="application/xhtml+xml"/>
+        <item id="space_oasis" href="space_oasis.xhtml" media-type="application/xhtml+xml"/>
+        <item id="vampire_queen" href="vampire_queen.xhtml" media-type="application/xhtml+xml"/>
+        <item id="stellar_showboat" href="stellar_showboat.xhtml" media-type="application/xhtml+xml"/>
+        <item id="city_of_the_living_flame" href="city_of_the_living_flame.xhtml" media-type="application/xhtml+xml"/>
+        <item id="quest_of_thig" href="quest_of_thig.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_thought-men_of_mercury" href="the_thought-men_of_mercury.xhtml" media-type="application/xhtml+xml"/>
+        <item id="prison_planet" href="prison_planet.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_feature_flash" href="the_feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_vizigraph" href="the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+		<item id="index" href="index.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no"/>
+		<itemref idref="contents"/>
+        <itemref idref="war-gods_of_the_void"/>
+        <itemref idref="quest_of_thig"/>
+        <itemref idref="space_oasis"/>
+        <itemref idref="the_thought-men_of_mercury"/>
+        <itemref idref="the_feature_flash"/>
+        <itemref idref="vampire_queen"/>
+        <itemref idref="prison_planet"/>
+        <itemref idref="stellar_showboat"/>
+        <itemref idref="city_of_the_living_flame"/>
+        <itemref idref="the_vizigraph"/>
+	</spine>
+	<guide>
+		<reference type="cover" title="Cover" href="cover.xhtml"/>
+		<reference type="toc" title="Table of Contents" href="contents.xhtml"></reference>
+		<reference type="text" title="Contents" href="index.xhtml"></reference>
+	</guide>
+</package>
+
+
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="bookid">planet-stories-v01n10</dc:identifier>
+		<dc:title>Planet Stories</dc:title>
+		<dc:creator>Malcolm Reiss Ed.</dc:creator>
+		<dc:subject>Science Fiction Magazine</dc:subject>
+		<dc:description>.</dc:description>
+		<dc:publisher>Fiction House</dc:publisher>
+		<dc:date>1942</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta name="cover" content="v01n10.jpg" />
+		<meta property="dcterms:modified">2023-08-25T12:00:00Z</meta>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="css/book.css" media-type="text/css"/>
+
+		<item id="v01n10.jpg" href="images/v01n10.jpg" media-type="image/jpeg"/>
+		<item id="old_header.jpg" href="images/old_header.jpg" media-type="image/jpeg"/>
+		<item id="fiction_house.jpg" href="images/fiction_house.jpg" media-type="image/jpeg"/>
+		<item id="trade_council.jpg" href="images/trade_council.jpg" media-type="image/jpeg"/>
+
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="contents" href="contents.xhtml" media-type="application/xhtml+xml"/>
+        <item id="black_friar_of_the_flame" href="black_friar_of_the_flame.xhtml" media-type="application/xhtml+xml"/>
+        <item id="gods_of_space" href="gods_of_space.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_thing_of_venus" href="the_thing_of_venus.xhtml" media-type="application/xhtml+xml"/>
+        <item id="child_of_the_sun" href="child_of_the_sun.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_star-mouse" href="the_star-mouse.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_ballad_of_venus_nell" href="the_ballad_of_venus_nell.xhtml" media-type="application/xhtml+xml"/>
+        <item id="pied_piper_of_mars" href="pied_piper_of_mars.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_last_martian" href="the_last_martian.xhtml" media-type="application/xhtml+xml"/>
+        <item id="feature_flash" href="feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_vizigraph" href="the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+		<item id="index" href="index.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no"/>
+		<itemref idref="contents"/>
+        <itemref idref="black_friar_of_the_flame"/>
+        <itemref idref="the_star-mouse"/>
+        <itemref idref="feature_flash"/>
+        <itemref idref="gods_of_space"/>
+        <itemref idref="the_ballad_of_venus_nell"/>
+        <itemref idref="the_thing_of_venus"/>
+        <itemref idref="pied_piper_of_mars"/>
+        <itemref idref="the_last_martian"/>
+        <itemref idref="child_of_the_sun"/>
+        <itemref idref="the_vizigraph"/>
+	</spine>
+	<guide>
+		<reference type="cover" title="Cover" href="cover.xhtml"/>
+		<reference type="toc" title="Table of Contents" href="contents.xhtml"></reference>
+		<reference type="text" title="Contents" href="index.xhtml"></reference>
+	</guide>
+</package>
+
+
+

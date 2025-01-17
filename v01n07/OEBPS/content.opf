@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="bookid">planet-stories-v01n07</dc:identifier>
+		<dc:title>Planet Stories</dc:title>
+		<dc:creator>Malcolm Reiss Ed.</dc:creator>
+		<dc:subject>Science Fiction Magazine</dc:subject>
+		<dc:description>.</dc:description>
+		<dc:publisher>Fiction House</dc:publisher>
+		<dc:date>1941</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta name="cover" content="v01n07.jpg" />
+		<meta property="dcterms:modified">2023-08-25T12:00:00Z</meta>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="css/book.css" media-type="text/css"/>
+
+		<item id="v01n07.jpg" href="images/v01n07.jpg" media-type="image/jpeg"/>
+		<item id="old_header.jpg" href="images/old_header.jpg" media-type="image/jpeg"/>
+		<item id="fiction_house.jpg" href="images/fiction_house.jpg" media-type="image/jpeg"/>
+		<item id="trade_council.jpg" href="images/trade_council.jpg" media-type="image/jpeg"/>
+
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="contents" href="contents.xhtml" media-type="application/xhtml+xml"/>
+        <item id="invaders_of_the_forbidden_moon" href="invaders_of_the_forbidden_moon.xhtml" media-type="application/xhtml+xml"/>
+        <item id="sargasso_of_the_stars" href="sargasso_of_the_stars.xhtml" media-type="application/xhtml+xml"/>
+        <item id="mutiny_aboard_the_terra" href="mutiny_aboard_the_terra.xhtml" media-type="application/xhtml+xml"/>
+        <item id="proktols_of_neptune" href="proktols_of_neptune.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_ballad_of_blaster_bill" href="the_ballad_of_blaster_bill.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_dragon-queen_of_jupiter" href="the_dragon-queen_of_jupiter.xhtml" media-type="application/xhtml+xml"/>
+        <item id="genesis" href="genesis.xhtml" media-type="application/xhtml+xml"/>
+        <item id="world_of_mockery" href="world_of_mockery.xhtml" media-type="application/xhtml+xml"/>
+        <item id="space-wolf" href="space-wolf.xhtml" media-type="application/xhtml+xml"/>
+        <item id="feature_flash" href="feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_vizigraph" href="the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+		<item id="index" href="index.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no"/>
+		<itemref idref="contents"/>
+        <itemref idref="invaders_of_the_forbidden_moon"/>
+        <itemref idref="the_ballad_of_blaster_bill"/>
+        <itemref idref="the_dragon-queen_of_jupiter"/>
+        <itemref idref="sargasso_of_the_stars"/>
+        <itemref idref="genesis"/>
+        <itemref idref="world_of_mockery"/>
+        <itemref idref="mutiny_aboard_the_terra"/>
+        <itemref idref="space-wolf"/>
+        <itemref idref="feature_flash"/>
+        <itemref idref="proktols_of_neptune"/>
+        <itemref idref="the_vizigraph"/>
+	</spine>
+	<guide>
+		<reference type="cover" title="Cover" href="cover.xhtml"/>
+		<reference type="toc" title="Table of Contents" href="contents.xhtml"></reference>
+		<reference type="text" title="Contents" href="index.xhtml"></reference>
+	</guide>
+</package>
+
+
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta name="dtb:uid" content="planet-stories-v01n08"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>PLANET STORIES</text></docTitle>
+	<navMap>
+        <navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+        <navPoint id="contents" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="contents.xhtml"/></navPoint>
+        <navPoint id="vassals_of_the_master_world" playOrder="3"><navLabel><text>Vassals of the Master World</text></navLabel><content src="vassals_of_the_master_world.xhtml"/></navPoint>
+        <navPoint id="the_victory_of_klon" playOrder="4"><navLabel><text>The Victory of Klon</text></navLabel><content src="the_victory_of_klon.xhtml"/></navPoint>
+        <navPoint id="the_star_of_satan" playOrder="5"><navLabel><text>The Star of Satan</text></navLabel><content src="the_star_of_satan.xhtml"/></navPoint>
+        <navPoint id="dead_mans_planet" playOrder="6"><navLabel><text>Dead Man’s Planet</text></navLabel><content src="dead_mans_planet.xhtml"/></navPoint>
+        <navPoint id="the_raiders_of_saturns_rings" playOrder="7"><navLabel><text>The Raiders of Saturn’s Rings</text></navLabel><content src="the_raiders_of_saturns_rings.xhtml"/></navPoint>
+        <navPoint id="south_to_propontis" playOrder="8"><navLabel><text>South to Propontis</text></navLabel><content src="south_to_propontis.xhtml"/></navPoint>
+        <navPoint id="spawn_of_the_venus_sea" playOrder="9"><navLabel><text>Spawn of the Venus Sea</text></navLabel><content src="spawn_of_the_venus_sea.xhtml"/></navPoint>
+        <navPoint id="feature_flash" playOrder="10"><navLabel><text>Feature Flash</text></navLabel><content src="feature_flash.xhtml"/></navPoint>
+        <navPoint id="shadrach" playOrder="11"><navLabel><text>“Shadrach”</text></navLabel><content src="shadrach.xhtml"/></navPoint>
+        <navPoint id="the_vizigraph" playOrder="12"><navLabel><text>The Vizigraph</text></navLabel><content src="the_vizigraph.xhtml"/></navPoint>
+	</navMap>
+</ncx>

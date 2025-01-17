@@ -1,0 +1,99 @@
+body { font-family: Serif; font-size: 1em; }
+
+span.dropcaps { font-weight:normal; font-size:310%; float:left; margin-top:-0.25em; margin-bottom:-0.3em; margin-right: 0.1em; }
+
+p { border: 0px; padding: 0px; margin: 0 0 0 0; text-indent: 1em; text-align: justify;}
+h4 { border: 0px; padding: 0px; margin: 0 0 0 0; font-weight: normal; text-align: center; }
+h3 { text-align: center; font-size: 1em; margin: .75em; font-weight: normal; }
+h2 { text-align: center; font-weight: bold; font-variant: italic; }
+h1 { margin: 0.5em; text-align: center; font-size: 1.5em; font-weight: bold; text-transform: uppercase; font-family: sans-serif; }
+a { color: blue; }
+
+.left { text-align: left; }
+.center { text-align: center; }
+.right { text-align: right; }
+.fright { float: right; }
+
+.box { border: 1px solid black; padding: 1em; }
+
+.hr { width: 5%; height: 1px; background-color: black; margin: auto; margin-top: 1em;}
+.thin { width: 75%; margin: auto; }
+.spacebefore { margin-top: 1em; }
+
+#maintoc p { padding-left: 3em; padding-right: 3em; text-indent: 0; }
+#maintoc ol { list-style-type: none; margin: 1em 0 1em 0; padding-top: 0.2em; padding-bottom: 0.2em; }
+#maintoc li { padding-top: 0;}
+#maintoc a { text-decoration: none; }
+
+#toc { font-size: 0.7em; }
+#toc .president { padding-left: 0; margin-left: 0; padding-top: 5px; padding-bottom: 5px; width: 45%; float: left; font-size: 0.7em; }
+#toc .manager { font-size: 0.7em; }
+#toc .editor { padding-right: 0; margin-right: 0; padding-top: 5px; padding-bottom: 5px; float: right; text-align: right; width: 45%; font-size: 0.7em; }
+#toc .doubleline { display: box; clear: both; width: 100%; height: 5px; border-top: 1px solid black; border-bottom: 1px solid black; }
+#toc p { padding-left: 3em; padding-right: 3em; text-indent: 0; }
+#toc ol { list-style-type: none; margin: 0 0 1em 0; padding-top: 0.2em; padding-bottom: 0.2em; }
+#toc li { padding-top: 0;}
+#toc .left-col { float: left; width: 35%; }
+#toc .center-col { text-align: center; margin: auto; }
+#toc .right-col { float: right; width: 35%; text-align: right; }
+#toc .clear { clear: both; }
+#toc .copyright { padding-top: 1em; }
+#toc h2 { padding-bottom: 0; margin-bottom: 0; }
+#toc a { text-decoration: none; }
+
+#story h1 { font-size: 3em; text-align: center; font-family: serif; text-transform: none; font-variant: small-caps; }
+#story h2 { font-size: 1.3em; }
+#story h3 { font-size: 1em; font-weight: bold; text-align: justify; padding-left: 10%; padding-right: 5%; }
+#story .title { font-family: sans-serif; text-align: left; font-weight: bold; }
+
+.letter_title { font-size: 1.1em; width: 100%; margin-top: 1em; margin-bottom: 1em; text-indent: 0; font-family: sans-serif; font-weight: bold; }
+
+.titlepage { font-family: sans-serif; }
+.titlepage .title { font-size: 3em; font-weight: 800; text-align: center; margin-bottom: 2em; }
+.titlepage .author { text-align: center; padding-bottom: 1em; font-weight: 100; }
+.titlepage .subtitle { text-align: center; font-size: 0.8em; font-weight: 200; padding: .5em 0; }
+.publisher { text-align: center; font-weight: bold; }
+
+.rearcover { font-family: sans-serif; margin: 0px; text-indent: 0px;  }
+.rearcover .title { font-size: 1.7em; font-weight: 900; text-align: left; text-indent: 0; }
+.rearcover .subtitle {text-align: left; text-indent: 0; }
+.rearcover ul { margin: 0; }
+
+.fp { text-indent: 0px; margin-top: 1em; }
+.indent { text-indent: 0px; margin-left: 2em; }
+.isbn { font-family: sans-serif; text-indent: 0px; font-weight: bold; font-size: 10pt;}
+.toc { margin-left:10px; text-indent: 0px; text-align: left;}
+.typewriter  {font-family: courier, times, serif; text-indent: 0px; margin-left: 5px; margin-right: 5px; font-size: .5em;}
+.smallcaps { font-variant: small-caps; font-size: 1.2em; }
+.nocaps { font-variant: normal; }
+#typewriter {font-family: courier, times, serif; margin-left: 10px; margin-right: 10px;}
+#typewriter p {text-indent: 0px; margin-top: 5px;}
+.noindent { text-indent: 0px; }
+.reindent { text-indent: 1em !important; }
+
+.copyright { font-size: 0.8em;}
+.copyright p { text-indent: 0; padding-bottom: 1em; }
+.copyright .lcc { display: inline-block; }
+.copyright .lcc p { padding-bottom: 0; }
+.blank { padding-left: 2em; }
+.copyright .fl-left { float: left; }
+.copyright .fl-right { float: right; }
+.copyright .title { text-align: center; }
+.copyack { font-size: 0.8em; }
+.copyack p { padding-bottom: .5em; }
+
+.flap { font-family: sans-serif; }
+.flap .title { font-size: 1.7em; font-weight: 900; text-align: left; text-indent: 0; }
+.flap .subtitle {text-align: left; text-indent: 0; }
+
+.heading h1 { margin: 2em 0.5em; text-align: center; font-size: 1.5em; font-weight: bold; text-transform: uppercase; font-family: sans-serif; }
+.heading h2 { font-size: 2em; font-weight: normal; }
+
+.space { margin-top: 1em; }
+.quote { padding-left: 2em; }
+
+.xpart { box-sizing: border-box; float: left; height: 2em; padding-bottom: 1em; margin: 0; width: 40%; border-bottom: 1px solid black; }
+.xpartname { box-sizing: border-box; float: left; width: 60%; margin-top: 2em; border-left: 1px solid black; padding: 1em 0 2em 2em; border-bottom: 1px solid black; text-align: left; }
+
+.subtitle { font-family: sans-serif;  text-align: center; font-size: 1.2em;}
+.clear { clear: both; }

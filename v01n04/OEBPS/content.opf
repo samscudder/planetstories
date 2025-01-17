@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="bookid">planet-stories-v01n04</dc:identifier>
+		<dc:title>Planet Stories</dc:title>
+		<dc:creator>Malcolm Reiss Ed.</dc:creator>
+		<dc:subject>Science Fiction Magazine</dc:subject>
+		<dc:description>.</dc:description>
+		<dc:publisher>Fiction House</dc:publisher>
+		<dc:date>1940</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta name="cover" content="v01n04.jpg" />
+		<meta property="dcterms:modified">2023-08-25T12:00:00Z</meta>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="css" href="css/book.css" media-type="text/css"/>
+
+		<item id="v01n04.jpg" href="images/v01n04.jpg" media-type="image/jpeg"/>
+		<item id="old_header.jpg" href="images/old_header.jpg" media-type="image/jpeg"/>
+		<item id="fiction_house.jpg" href="images/fiction_house.jpg" media-type="image/jpeg"/>
+		<item id="trade_council.jpg" href="images/trade_council.jpg" media-type="image/jpeg"/>
+
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="contents" href="contents.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_ultimate_salient" href="the_ultimate_salient.xhtml" media-type="application/xhtml+xml"/>
+        <item id="revolt_in_the_ice_kingdom" href="revolt_in_the_ice_kingdom.xhtml" media-type="application/xhtml+xml"/>
+        <item id="buccaneer_of_the_star_seas" href="buccaneer_of_the_star_seas.xhtml" media-type="application/xhtml+xml"/>
+        <item id="domain_of_zero" href="domain_of_zero.xhtml" media-type="application/xhtml+xml"/>
+        <item id="quest_on_io" href="quest_on_io.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_planet_that_time_forgot" href="the_planet_that_time_forgot.xhtml" media-type="application/xhtml+xml"/>
+        <item id="hermit_of_saturns_ring" href="hermit_of_saturns_ring.xhtml" media-type="application/xhtml+xml"/>
+        <item id="venus_has_green_eyes" href="venus_has_green_eyes.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_feature_flash" href="the_feature_flash.xhtml" media-type="application/xhtml+xml"/>
+        <item id="the_vizigraph" href="the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
+		<item id="index" href="index.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no"/>
+		<itemref idref="contents"/>
+        <itemref idref="the_ultimate_salient"/>
+        <itemref idref="revolt_in_the_ice_kingdom"/>
+        <itemref idref="buccaneer_of_the_star_seas"/>
+        <itemref idref="domain_of_zero"/>
+        <itemref idref="quest_on_io"/>
+        <itemref idref="the_planet_that_time_forgot"/>
+        <itemref idref="hermit_of_saturns_ring"/>
+        <itemref idref="venus_has_green_eyes"/>
+        <itemref idref="the_feature_flash"/>
+        <itemref idref="the_vizigraph"/>
+	</spine>
+	<guide>
+		<reference type="cover" title="Cover" href="cover.xhtml"/>
+		<reference type="toc" title="Table of Contents" href="contents.xhtml"></reference>
+		<reference type="text" title="Contents" href="index.xhtml"></reference>
+	</guide>
+</package>
+
+
+
