@@ -39,10 +39,10 @@
 		<itemref idref="cover" linear="no"/>
 		<itemref idref="contents"/>
         <itemref idref="the_ultimate_salient"/>
+        <itemref idref="quest_on_io"/>
         <itemref idref="revolt_in_the_ice_kingdom"/>
         <itemref idref="buccaneer_of_the_star_seas"/>
         <itemref idref="domain_of_zero"/>
-        <itemref idref="quest_on_io"/>
         <itemref idref="the_planet_that_time_forgot"/>
         <itemref idref="hermit_of_saturns_ring"/>
         <itemref idref="venus_has_green_eyes"/>
@@ -52,7 +52,7 @@
 	<guide>
 		<reference type="cover" title="Cover" href="cover.xhtml"/>
 		<reference type="toc" title="Table of Contents" href="contents.xhtml"></reference>
-		<reference type="text" title="Contents" href="index.xhtml"></reference>
+		<reference type="text" title="Contents" href="contents.xhtml"></reference>
 	</guide>
 </package>
 

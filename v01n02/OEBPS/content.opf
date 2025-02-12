@@ -40,13 +40,13 @@
 		<itemref idref="cover" linear="no"/>
 		<itemref idref="contents"/>
         <itemref idref="goddess_of_the_moon"/>
-        <itemref idref="dictator_of_time"/>
         <itemref idref="the_girl_from_infinite_smallness"/>
         <itemref idref="martian_terror"/>
-        <itemref idref="revolt_on_the_earth-star"/>
         <itemref idref="the_tantalus_death"/>
+        <itemref idref="revolt_on_the_earth-star"/>
         <itemref idref="the_space_flame"/>
         <itemref idref="the_man_who_killed_the_earth"/>
+        <itemref idref="dictator_of_time"/>
         <itemref idref="the_feature_flash"/>
         <itemref idref="the_vizigraph"/>
 	</spine>

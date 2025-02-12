@@ -1,16 +1,16 @@
 body { font-family: Serif; font-size: 1em; }
 
-span.dropcaps { font-weight:normal; font-size:310%; float:left; margin-top:-0.25em; margin-bottom:-0.3em; margin-right: 0.1em; }
+span.dropcaps { font-weight:normal; font-size:320%; float:left; margin-top:-0.3225em; margin-bottom:-0.3245em; margin-right: 0.1em; }
 
-p { border: 0px; padding: 0px; margin: 0 0 0 0; text-indent: 1em; text-align: justify;}
-h4 { border: 0px; padding: 0px; margin: 0 0 0 0; font-weight: normal; text-align: center; }
-h3 { text-align: center; font-size: 1em; margin: .75em; font-weight: normal; }
+p { border: 0px; padding: 0px; margin: 0; text-indent: 1em; text-align: justify;}
+h4 { border: 0px; padding: 0px; margin: 0; font-weight: normal; text-align: center; }
+h3 { text-align: justify; font-size: 1em; margin: .75em; font-weight: normal; }
 h2 { text-align: center; font-weight: bold; font-variant: italic; }
 h1 { margin: 0.5em; text-align: center; font-size: 1.5em; font-weight: bold; text-transform: uppercase; font-family: sans-serif; }
 a { color: blue; }
 
 .left { text-align: left; }
-.center { text-align: center; }
+.center { text-align: center !important; }
 .right { text-align: right; }
 
 .box { border: 1px solid black; padding: 1em; }
@@ -25,24 +25,30 @@ a { color: blue; }
 #maintoc a { text-decoration: none; }
 
 #toc { font-size: 0.7em; }
-#toc .president { padding-left: 0; margin-left: 0; padding-top: 5px; padding-bottom: 5px; width: 45%; float: left; font-size: 0.7em; }
+#toc table { width: 100%; }
+#toc .row { display: flex; flex-wrap: wrap; }
+#toc .president { padding-left: 0; margin-left: 0; padding-top: 5px; padding-bottom: 5px; width: 50%; font-size: 0.7em; }
+#toc .editor { padding-right: 0; margin-right: 0; padding-top: 5px; padding-bottom: 5px; text-align: right; width: 50%; font-size: 0.7em; }
 #toc .manager { font-size: 0.7em; }
-#toc .editor { padding-right: 0; margin-right: 0; padding-top: 5px; padding-bottom: 5px; float: right; text-align: right; width: 45%; font-size: 0.7em; }
 #toc .doubleline { display: box; clear: both; width: 100%; height: 5px; border-top: 1px solid black; border-bottom: 1px solid black; }
 #toc p { padding-left: 3em; padding-right: 3em; text-indent: 0; }
-#toc ol { list-style-type: none; margin: 0 0 1em 0; padding-top: 0.2em; padding-bottom: 0.2em; }
-#toc li { padding-top: 0;}
-#toc .left-col { float: left; width: 35%; }
-#toc .center-col { text-align: center; margin: auto; }
-#toc .right-col { float: right; width: 35%; text-align: right; }
+#toc ol { list-style-type: none; margin: 0 0 .5em 0; padding-top: 0.2em; padding-bottom: 0; }
+#toc li { padding-top: 0; padding-bottom: .5em; }
+#toc .left-col { width: 35%; }
+#toc .center-col { text-align: center; }
+#toc .right-col { width: 35%; text-align: right; }
 #toc .clear { clear: both; }
-#toc .copyright { padding-top: 1em; }
-#toc h2 { padding-bottom: 0; margin-bottom: 0; }
+#toc .copyright { padding: 0; text-indent: 1em; margin: 0; font-size: 0.8em; }
+#toc .copyright p { padding: 0; text-indent: 1em; }
+#toc h2 { font-family: sans-serif; padding-bottom: 0; margin-bottom: 0; }
 #toc a { text-decoration: none; }
 
-#story h1 { font-size: 3em; text-align: center; font-family: serif; text-transform: none; font-variant: small-caps; }
+#story h1 { font-size: 3em; text-align: center; font-family: serif; text-transform: none; font-variant: small-caps; line-height: .9em; }
 #story h2 { font-size: 1.3em; }
-#story h3 { font-size: 1em; font-weight: bold; text-align: justify; padding-left: 10%; padding-right: 5%; }
+#story h3 { font-size: 1em; font-weight: bold; text-align: justify; padding-left: 1em; padding-right: 1em; text-align-last: center; }
+
+#vizigraph h2 { font-size: 1.3em; font-family: sans-serif; text-align: left; }
+#vizigraph .hr { display: block; height: 1px; background-color: black; width:30%; margin: 1em auto; }
 
 .titlepage { font-family: sans-serif; }
 .titlepage .title { font-size: 3em; font-weight: 800; text-align: center; margin-bottom: 2em; }
@@ -61,22 +67,14 @@ a { color: blue; }
 .toc { margin-left:10px; text-indent: 0px; text-align: left;}
 .typewriter  {font-family: courier, times, serif; text-indent: 0px; margin-left: 5px; margin-right: 5px; font-size: .5em;}
 .smallcaps { font-variant: small-caps; font-size: 1.2em; }
+.uppercase { text-transform: uppercase; }
 .nocaps { font-variant: normal; }
 #typewriter {font-family: courier, times, serif; margin-left: 10px; margin-right: 10px;}
 #typewriter p {text-indent: 0px; margin-top: 5px;}
 .noindent { text-indent: 0px; }
 .reindent { text-indent: 1em !important; }
 
-.copyright { font-size: 0.8em;}
-.copyright p { text-indent: 0; padding-bottom: 1em; }
-.copyright .lcc { display: inline-block; }
-.copyright .lcc p { padding-bottom: 0; }
 .blank { padding-left: 2em; }
-.copyright .fl-left { float: left; }
-.copyright .fl-right { float: right; }
-.copyright .title { text-align: center; }
-.copyack { font-size: 0.8em; }
-.copyack p { padding-bottom: .5em; }
 
 .flap { font-family: sans-serif; }
 .flap .title { font-size: 1.7em; font-weight: 900; text-align: left; text-indent: 0; }
@@ -93,3 +91,6 @@ a { color: blue; }
 
 .subtitle { font-family: sans-serif;  text-align: center; font-size: 1.2em;}
 .clear { clear: both; }
+
+#cover-image { text-align: center; margin: auto; }
+#cover-image img { height: 100%; }

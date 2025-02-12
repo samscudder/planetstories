@@ -40,21 +40,21 @@
 		<itemref idref="cover" linear="no"/>
 		<itemref idref="contents"/>
         <itemref idref="space-liner_x-87"/>
+        <itemref idref="sphere_of_the_never-dead"/>
         <itemref idref="the_forbidden_dream"/>
         <itemref idref="exiles_of_the_three_red_moons"/>
-        <itemref idref="the_cosmic_juggernaut"/>
-        <itemref idref="the_dark_swordsmen_of_saturn"/>
-        <itemref idref="sphere_of_the_never-dead"/>
         <itemref idref="star_pirate"/>
+        <itemref idref="the_cosmic_juggernaut"/>
         <itemref idref="asteroid_h277-plus"/>
         <itemref idref="life_on_other_planets"/>
+        <itemref idref="the_dark_swordsmen_of_saturn"/>
         <itemref idref="the_feature_flash"/>
         <itemref idref="the_vizigraph"/>
 	</spine>
 	<guide>
 		<reference type="cover" title="Cover" href="cover.xhtml"/>
 		<reference type="toc" title="Table of Contents" href="contents.xhtml"></reference>
-		<reference type="text" title="Contents" href="index.xhtml"></reference>
+		<reference type="text" title="Contents" href="contents.xhtml"></reference>
 	</guide>
 </package>
 
