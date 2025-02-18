@@ -11,13 +11,13 @@
         <navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
         <navPoint id="contents" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="contents.xhtml"/></navPoint>
         <navPoint id="one_thousand_miles_below" playOrder="3"><navLabel><text>One Thousand Miles Below</text></navLabel><content src="one_thousand_miles_below.xhtml"/></navPoint>
-        <navPoint id="phantom_of_the_seven_stars" playOrder="4"><navLabel><text>Phantom of the Seven Stars</text></navLabel><content src="phantom_of_the_seven_stars.xhtml"/></navPoint>
-        <navPoint id="twilight_of_the_tenth_world" playOrder="5"><navLabel><text>Twilight of the Tenth World</text></navLabel><content src="twilight_of_the_tenth_world.xhtml"/></navPoint>
-        <navPoint id="the_castaway" playOrder="6"><navLabel><text>The Castaway</text></navLabel><content src="the_castaway.xhtml"/></navPoint>
-        <navPoint id="atom_of_death" playOrder="7"><navLabel><text>Atom of Death</text></navLabel><content src="atom_of_death.xhtml"/></navPoint>
-        <navPoint id="beyond_light" playOrder="8"><navLabel><text>Beyond Light</text></navLabel><content src="beyond_light.xhtml"/></navPoint>
-        <navPoint id="exit_from_asteroid_60" playOrder="9"><navLabel><text>Exit from Asteroid 60</text></navLabel><content src="exit_from_asteroid_60.xhtml"/></navPoint>
-        <navPoint id="the_stellar_legion" playOrder="10"><navLabel><text>The Stellar Legion</text></navLabel><content src="the_stellar_legion.xhtml"/></navPoint>
+        <navPoint id="the_castaway" playOrder="4"><navLabel><text>The Castaway</text></navLabel><content src="the_castaway.xhtml"/></navPoint>
+        <navPoint id="atom_of_death" playOrder="5"><navLabel><text>Atom of Death</text></navLabel><content src="atom_of_death.xhtml"/></navPoint>
+        <navPoint id="beyond_light" playOrder="6"><navLabel><text>Beyond Light</text></navLabel><content src="beyond_light.xhtml"/></navPoint>
+        <navPoint id="exit_from_asteroid_60" playOrder="7"><navLabel><text>Exit from Asteroid 60</text></navLabel><content src="exit_from_asteroid_60.xhtml"/></navPoint>
+        <navPoint id="phantom_of_the_seven_stars" playOrder="8"><navLabel><text>Phantom of the Seven Stars</text></navLabel><content src="phantom_of_the_seven_stars.xhtml"/></navPoint>
+        <navPoint id="the_stellar_legion" playOrder="9"><navLabel><text>The Stellar Legion</text></navLabel><content src="the_stellar_legion.xhtml"/></navPoint>
+        <navPoint id="twilight_of_the_tenth_world" playOrder="10"><navLabel><text>Twilight of the Tenth World</text></navLabel><content src="twilight_of_the_tenth_world.xhtml"/></navPoint>
         <navPoint id="the_feature_flash" playOrder="11"><navLabel><text>The Feature Flash</text></navLabel><content src="the_feature_flash.xhtml"/></navPoint>
         <navPoint id="the_vizigraph" playOrder="12"><navLabel><text>The Vizigraph</text></navLabel><content src="the_vizigraph.xhtml"/></navPoint>
 	</navMap>

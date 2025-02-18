@@ -39,20 +39,20 @@
 		<itemref idref="cover" linear="no"/>
 		<itemref idref="contents"/>
         <itemref idref="one_thousand_miles_below"/>
-        <itemref idref="phantom_of_the_seven_stars"/>
-        <itemref idref="twilight_of_the_tenth_world"/>
         <itemref idref="the_castaway"/>
         <itemref idref="atom_of_death"/>
         <itemref idref="beyond_light"/>
         <itemref idref="exit_from_asteroid_60"/>
+        <itemref idref="phantom_of_the_seven_stars"/>
         <itemref idref="the_stellar_legion"/>
+        <itemref idref="twilight_of_the_tenth_world"/>
         <itemref idref="the_feature_flash"/>
         <itemref idref="the_vizigraph"/>
 	</spine>
 	<guide>
 		<reference type="cover" title="Cover" href="cover.xhtml"/>
 		<reference type="toc" title="Table of Contents" href="contents.xhtml"></reference>
-		<reference type="text" title="Contents" href="index.xhtml"></reference>
+		<reference type="text" title="Contents" href="contents.xhtml"></reference>
 	</guide>
 </package>
 
