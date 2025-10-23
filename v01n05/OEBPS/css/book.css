@@ -1,3 +1,9 @@
+@font-face {
+	font-family: "flash";
+	src: url("flash.ttf");
+    font-weight: bold;
+}
+
 body { font-family: Serif; font-size: 1em; }
 
 span.dropcaps { font-weight:normal; font-size:320%; float:left; margin-top:-0.3225em; margin-bottom:-0.3245em; margin-right: 0.1em; }
@@ -24,12 +30,11 @@ a { color: blue; }
 #maintoc li { padding-top: 0;}
 #maintoc a { text-decoration: none; }
 
-#toc { font-size: 0.7em; }
-#toc table { width: 100%; }
+#toc table { width: 100%; font-size: 0.7em; }
 #toc .row { display: flex; flex-wrap: wrap; }
-#toc .president { padding-left: 0; margin-left: 0; padding-top: 5px; padding-bottom: 5px; width: 50%; font-size: 0.7em; }
-#toc .editor { padding-right: 0; margin-right: 0; padding-top: 5px; padding-bottom: 5px; text-align: right; width: 50%; font-size: 0.7em; }
-#toc .manager { font-size: 0.7em; }
+#toc .president { padding-left: 0; margin-left: 0; padding-top: 5px; padding-bottom: 5px; width: 50%; font-size: 0.8em; }
+#toc .editor { padding-right: 0; margin-right: 0; padding-top: 5px; padding-bottom: 5px; text-align: right; width: 50%; font-size: 0.8em; }
+#toc .manager { font-size: 0.8em; }
 #toc .doubleline { display: box; clear: both; width: 100%; height: 5px; border-top: 1px solid black; border-bottom: 1px solid black; }
 #toc p { padding-left: 3em; padding-right: 3em; text-indent: 0; }
 #toc ol { list-style-type: none; margin: 0 0 .5em 0; padding-top: 0.2em; padding-bottom: 0; }
@@ -38,9 +43,9 @@ a { color: blue; }
 #toc .center-col { text-align: center; }
 #toc .right-col { width: 35%; text-align: right; }
 #toc .clear { clear: both; }
-#toc .copyright { padding: 0; text-indent: 1em; margin: 0; font-size: 0.8em; }
+#toc .copyright { padding: 0; text-indent: 1em; margin: 0; font-size: 0.7em; }
 #toc .copyright p { padding: 0; text-indent: 1em; }
-#toc h2 { font-family: sans-serif; padding-bottom: 0; margin-bottom: 0; }
+#toc h2 { font-family: flash, sans-serif; padding-bottom: 0; margin-bottom: 0; }
 #toc a { text-decoration: none; }
 
 #story h1 { font-size: 3em; text-align: center; font-family: serif; text-transform: none; font-variant: small-caps; line-height: .9em; }
@@ -63,6 +68,7 @@ a { color: blue; }
 .rearcover ul { margin: 0; }
 
 .fp { text-indent: 0px; margin-top: 1em; }
+.blurb { text-indent: 0px; margin-top: 1em; font-weight: bold; margin-left: 1em; margin-right: 1em; text-align: justify; text-align-last: center; }
 .subtitle { font-weight: bold; margin-left: 1em; margin-right: 1em; }
 .indent { text-indent: 0px; margin-left: 2em; }
 .isbn { font-family: sans-serif; text-indent: 0px; font-weight: bold; font-size: 10pt;}

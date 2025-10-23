@@ -1,3 +1,9 @@
+@font-face {
+	font-family: "flash";
+	src: url("flash.ttf");
+    font-weight: bold;
+}
+
 body { font-family: Serif; font-size: 1em; }
 
 span.dropcaps { font-weight:normal; font-size:320%; float:left; margin-top:-0.3225em; margin-bottom:-0.3245em; margin-right: 0.1em; }
@@ -40,7 +46,7 @@ a { color: blue; }
 #toc .clear { clear: both; }
 #toc .copyright { padding: 0; text-indent: 1em; margin: 0; font-size: 0.8em; }
 #toc .copyright p { padding: 0; text-indent: 1em; }
-#toc h2 { font-family: sans-serif; padding-bottom: 0; margin-bottom: 0; }
+#toc h2 { font-family: flash, sans-serif; padding-bottom: 0; margin-bottom: 0; }
 #toc a { text-decoration: none; }
 
 #story h1 { font-size: 3em; text-align: center; font-family: serif; text-transform: none; font-variant: small-caps; line-height: .9em; }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="bookid">planet-stories-v01n04</dc:identifier>
+		<dc:identifier id="bookid">planet-stories-v01n04a</dc:identifier>
 		<dc:title>Planet Stories</dc:title>
 		<dc:creator>Malcolm Reiss Ed.</dc:creator>
 		<dc:subject>Science Fiction Magazine</dc:subject>
@@ -15,6 +15,7 @@
 	<manifest>
 		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
 		<item id="css" href="css/book.css" media-type="text/css"/>
+		<item id="flash" href="css/flash.ttf" media-type="application/vnd.ms-opentype"/>
 
 		<item id="v01n04.jpg" href="images/v01n04.jpg" media-type="image/jpeg"/>
 		<item id="old_header.jpg" href="images/old_header.jpg" media-type="image/jpeg"/>
