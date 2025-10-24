@@ -6,7 +6,8 @@
 
 body { font-family: Serif; font-size: 1em; }
 
-span.dropcaps { font-weight:normal; font-size:320%; float:left; margin-top:-0.3225em; margin-bottom:-0.3245em; margin-right: 0.1em; }
+span.dropcaps3 { font-weight:normal; font-size:320%; float:left; margin-top:-0.3225em; margin-bottom:-0.3245em; margin-right: 0.1em; }
+span.dropcaps { font-weight:normal; font-size:220%; float:left; margin-top:-0.1em; margin-bottom:-0.1em; margin-right: 0.1em; line-height: 1; }
 
 p { border: 0px; padding: 0px; margin: 0; text-indent: 1em; text-align: justify;}
 h4 { border: 0px; padding: 0px; margin: 0; font-weight: normal; text-align: center; }
@@ -56,6 +57,7 @@ a { color: blue; }
 #vizigraph h1 { font-size: 3rem; text-align: center; font-family: sans-serif; font-weight: 900; text-transform: none; line-height: .9em; }
 #vizigraph h2 { font-size: 1.3em; font-family: sans-serif; text-align: left; }
 #vizigraph .hr { display: block; height: 1px; background-color: black; width:30%; margin: 1em auto; }
+#vizigraph .flash { font-family: flash, sans-serif !important; }
 
 .titlepage { font-family: sans-serif; }
 .titlepage .title { font-size: 3em; font-weight: 800; text-align: center; margin-bottom: 2em; }
