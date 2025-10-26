@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
 	<head>
-		<meta name="dtb:uid" content="planet-stories-v01n06a"/>
+		<meta name="dtb:uid" content="planet-stories-v01n06b"/>
 		<meta name="dtb:depth" content="1"/>
 		<meta name="dtb:totalPageCount" content="0"/>
 		<meta name="dtb:maxPageNumber" content="0"/>
 	</head>
 	<docTitle><text>PLANET STORIES</text></docTitle>
 	<navMap>
-        <navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
-        <navPoint id="contents" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="contents.xhtml"/></navPoint>
-        <navPoint id="the_war-nymphs_of_venus" playOrder="3"><navLabel><text>The War-Nymphs of Venus</text></navLabel><content src="the_war-nymphs_of_venus.xhtml"/></navPoint>
-        <navPoint id="vampire_of_the_void" playOrder="4"><navLabel><text>Vampire of the Void</text></navLabel><content src="vampire_of_the_void.xhtml"/></navPoint>
-        <navPoint id="exiles_of_the_desert_star" playOrder="5"><navLabel><text>Exiles of the Desert Star</text></navLabel><content src="exiles_of_the_desert_star.xhtml"/></navPoint>
-        <navPoint id="the_monster_that_threatened_the_universe" playOrder="6"><navLabel><text>The Monster that Threatened the Universe</text></navLabel><content src="the_monster_that_threatened_the_universe.xhtml"/></navPoint>
-        <navPoint id="treasure_of_triton" playOrder="7"><navLabel><text>Treasure of Triton</text></navLabel><content src="treasure_of_triton.xhtml"/></navPoint>
-        <navPoint id="the_cosmic_derelict" playOrder="8"><navLabel><text>The Cosmic Derelict</text></navLabel><content src="the_cosmic_derelict.xhtml"/></navPoint>
-        <navPoint id="_4_b_eros" playOrder="9"><navLabel><text>4½ B, Eros</text></navLabel><content src="4_b_eros.xhtml"/></navPoint>
-        <navPoint id="satellite_of_fear" playOrder="10"><navLabel><text>Satellite of Fear</text></navLabel><content src="satellite_of_fear.xhtml"/></navPoint>
-        <navPoint id="the_vizigraph" playOrder="11"><navLabel><text>The Vizigraph</text></navLabel><content src="the_vizigraph.xhtml"/></navPoint>
+                <navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+                <navPoint id="contents" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="contents.xhtml"/></navPoint>
+                <navPoint id="the_war-nymphs_of_venus" playOrder="3"><navLabel><text>The War-Nymphs of Venus</text></navLabel><content src="the_war-nymphs_of_venus.xhtml"/></navPoint>
+                <navPoint id="vampire_of_the_void" playOrder="4"><navLabel><text>Vampire of the Void</text></navLabel><content src="vampire_of_the_void.xhtml"/></navPoint>
+                <navPoint id="exiles_of_the_desert_star" playOrder="5"><navLabel><text>Exiles of the Desert Star</text></navLabel><content src="exiles_of_the_desert_star.xhtml"/></navPoint>
+                <navPoint id="the_monster_that_threatened_the_universe" playOrder="6"><navLabel><text>The Monster that Threatened the Universe</text></navLabel><content src="the_monster_that_threatened_the_universe.xhtml"/></navPoint>
+                <navPoint id="treasure_of_triton" playOrder="7"><navLabel><text>Treasure of Triton</text></navLabel><content src="treasure_of_triton.xhtml"/></navPoint>
+                <navPoint id="the_cosmic_derelict" playOrder="8"><navLabel><text>The Cosmic Derelict</text></navLabel><content src="the_cosmic_derelict.xhtml"/></navPoint>
+                <navPoint id="_4_b_eros" playOrder="9"><navLabel><text>4½ B, Eros</text></navLabel><content src="4_b_eros.xhtml"/></navPoint>
+                <navPoint id="satellite_of_fear" playOrder="10"><navLabel><text>Satellite of Fear</text></navLabel><content src="satellite_of_fear.xhtml"/></navPoint>
+                <navPoint id="revolt_on_io" playOrder="11"><navLabel><text>Revolt on Io</text></navLabel><content src="revolt_on_io.xhtml"/></navPoint>
+                <navPoint id="the_vizigraph" playOrder="12"><navLabel><text>The Vizigraph</text></navLabel><content src="the_vizigraph.xhtml"/></navPoint>
 	</navMap>
 </ncx>

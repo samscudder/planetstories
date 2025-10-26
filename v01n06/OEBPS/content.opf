@@ -32,6 +32,7 @@
         <item id="the_cosmic_derelict" href="the_cosmic_derelict.xhtml" media-type="application/xhtml+xml"/>
         <item id="_4_b_eros" href="4_b_eros.xhtml" media-type="application/xhtml+xml"/>
         <item id="satellite_of_fear" href="satellite_of_fear.xhtml" media-type="application/xhtml+xml"/>
+        <item id="revolt_on_io" href="revolt_on_io.xhtml" media-type="application/xhtml+xml"/>
         <item id="the_vizigraph" href="the_vizigraph.xhtml" media-type="application/xhtml+xml"/>
 		<item id="index" href="index.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
@@ -46,6 +47,7 @@
         <itemref idref="the_cosmic_derelict"/>
         <itemref idref="_4_b_eros"/>
         <itemref idref="satellite_of_fear"/>
+        <itemref idref="revolt_on_io"/>
         <itemref idref="the_vizigraph"/>
 	</spine>
 	<guide>
